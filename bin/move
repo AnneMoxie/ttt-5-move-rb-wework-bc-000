@@ -9,5 +9,5 @@ require_relative '../lib/move.rb'
 
 def move
 puts "Welcome to Tic Tac Toe! Where would you like to go?"
-
+puts display_board(board)
 end
