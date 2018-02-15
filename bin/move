@@ -8,5 +8,6 @@ require_relative '../lib/move.rb'
 #has the get part because this  is the interaction bit...?
 
 def move
+puts "Welcome to Tic Tac Toe! Where would you like to go?"
 
 end
