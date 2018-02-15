@@ -5,7 +5,8 @@ require_relative '../lib/move.rb'
 # Code your CLI Here
 
 
-#has the get part because this 
+#has the get part because this  is the interaction bit...?
+
 def move
 
 end
