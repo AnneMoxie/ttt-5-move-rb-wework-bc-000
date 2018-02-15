@@ -12,9 +12,6 @@ def input_to_index(board, index)
   
 end
 
-def move(board, index, token) 
-
-end
 
   #print out a welcome message
   #assk the user to input the position on the borad
