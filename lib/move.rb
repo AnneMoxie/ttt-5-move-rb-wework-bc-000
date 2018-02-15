@@ -7,3 +7,17 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
+
+def input_to_index(board, index)
+  
+end
+
+def move(board, index, token) 
+
+end
+
+  #print out a welcome message
+  #assk the user to input the position on the borad
+  #call the input to index method 
+  #fill in wiht x or o
+  #print out updated board
