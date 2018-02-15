@@ -8,9 +8,10 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(index)
-  if 
-  
+def input_to_index(input)
+  if input.between 0:8 
+    then input.to_i
+  end
 end
 
 
